@@ -1,0 +1,11 @@
+{
+  "name": "nimiprave-frame-print",
+  "version": "1.0.3",
+  "description": "First Sample package for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nirmal Praveen Pothuraj",
+  "license": "UNLICENSED"
+}
